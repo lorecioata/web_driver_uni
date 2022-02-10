@@ -39,4 +39,6 @@ class LoginPage extends Page {
     }
 }
 
+
+
 export default new LoginPage();
