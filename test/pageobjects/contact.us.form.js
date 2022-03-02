@@ -1,6 +1,6 @@
-import ContactUsPage from './page';
+import WDIOPage from './page';
 
-class ContactUs extends ContactUsPage {
+class ContactUs extends WDIOPage {
 
     get inputFirstName() {
         return $$('.feedback-input')[0];
